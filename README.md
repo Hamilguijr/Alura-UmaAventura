@@ -1,1 +1,1 @@
-# Curso-do-Alura-Crie-uma-aventura-com-HTML-CSS-e-JavaScript
+# Curso-do-Alura:-Fluxograma-crie-uma-aventura-com-HTML-CSS-e-JavaScript
