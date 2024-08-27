@@ -1,8 +1,16 @@
 body {
     background-color: goldenrod;
     color: black;
-    font-family: "Qwitcher Grypen", cursive;
+    font-family: "Lobster", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #ffb500;
+    color: black;
+    font-family: "Qwitcher Grypen", cursive;
 }
