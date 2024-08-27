@@ -2,4 +2,7 @@ body {
     background-color: goldenrod;
     color: black;
     font-family: "Qwitcher Grypen", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
