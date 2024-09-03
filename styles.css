@@ -14,3 +14,11 @@ button {
     color: black;
     font-family: "Qwitcher Grypen", cursive;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
