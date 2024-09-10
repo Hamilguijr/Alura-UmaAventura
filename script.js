@@ -1,4 +1,4 @@
-const avanca = document.querySelectorAll('.prox.botao');
+const avanca = document.querySelectorAll('.prox-botao');
 
 avanca.forEach(button => {
     button.addEventListener('click', function(){
