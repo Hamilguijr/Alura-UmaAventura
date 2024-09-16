@@ -10,9 +10,9 @@ body {
 }
 
 button {
-    background-color: #ffb500;
-    color: black;
-    font-family: "Qwitcher Grypen", cursive;
+    background-color: black;
+    color: #ffb500;
+    font-size: 200%;
 }
 
 .passo {
